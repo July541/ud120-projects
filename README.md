@@ -1,4 +1,8 @@
-ud120-projects
+ud120-projects-solution
 ==============
 
-Starter project code for students taking Udacity ud120
+Solutions for ud120 project about machine learning
+
+All the files were tested by my own
+
+Use Python 2.7
